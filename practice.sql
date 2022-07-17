@@ -25,3 +25,5 @@ select left(EmpLname,4) from EmployeeInfo;
 select substring(EmpLname,1,4) from EmployeeInfo;
 
 
+
+
